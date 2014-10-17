@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[xet:home|Door43 (xet)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-xet|d43-xet repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-xet/archive/master.zip|d43-xet.zip]]
+
+**Recent Changes**
+{{changes>ns = xet}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/xet|Ethnologue data]]
+
